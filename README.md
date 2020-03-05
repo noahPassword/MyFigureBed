@@ -1,2 +1,3 @@
-# MyFigureBed
-网络图片仓库
+﻿# MyFigureBed
+* 网络图片仓库
+
